@@ -1,0 +1,8 @@
+GUIはGraphical User Interfaceの略でユーザが直接操作できる画面のことを指す
+
+DOMはDocument Object ModelでWebページ上の全てのHTMLファイルを文書オブジェクトとして扱い、それらの要素を木構造で表現する
+文書のためのプログラミングAPIである
+HTMLやXML文書の構造や内容を操作するためのもの　
+APIはプログラム間でデータの取得や送信を行うための仕組み
+
+
